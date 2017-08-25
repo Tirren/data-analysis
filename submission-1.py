@@ -24,5 +24,8 @@ distances = [[distance.cosine(matrix[0], matrix[i])] for i in range(len(data))]
 sorted_list = sorted(distances)
 print(distances.index(sorted_list[1]), distances.index(sorted_list[2]))
 
-
+# matrix = np.zeros((num_lines, num))
+# for i in range(num_lines):
+#     for j in table:
+#         matrix[i, table[j]] = original[i].count(j)
 
