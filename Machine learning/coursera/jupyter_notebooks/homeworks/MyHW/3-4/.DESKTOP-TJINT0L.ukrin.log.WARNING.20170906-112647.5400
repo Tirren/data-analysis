@@ -1,0 +1,11 @@
+Log file created at: 2017/09/06 11:26:47
+Running on machine: DESKTOP-TJINT0L
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+W0906 11:26:47.637200  3140 helpers.cc:208] File already exists: lectures_batches\aaaaaa.batch
+W0906 11:26:50.330909  3140 helpers.cc:208] File already exists: lectures_batches\aaaaab.batch
+W0906 11:30:48.098991  3140 check_messages.h:833] Inconsistent fields size in ThetaMatrix: 1728 vs 0 vs 1728 vs 0;
+W0906 13:28:37.951855  3140 helpers.cc:208] File already exists: lectures_batches\aaaaaa.batch
+W0906 13:28:40.484297  3140 helpers.cc:208] File already exists: lectures_batches\aaaaab.batch
+W0906 13:29:49.612036  3140 check_messages.h:833] Inconsistent fields size in ThetaMatrix: 1728 vs 0 vs 1728 vs 0;
+W0906 14:03:22.230537  3140 check_messages.h:833] Inconsistent fields size in ThetaMatrix: 1728 vs 0 vs 1728 vs 0;
+W0906 19:20:10.309424  3140 check_messages.h:833] Inconsistent fields size in ThetaMatrix: 1728 vs 0 vs 1728 vs 0;

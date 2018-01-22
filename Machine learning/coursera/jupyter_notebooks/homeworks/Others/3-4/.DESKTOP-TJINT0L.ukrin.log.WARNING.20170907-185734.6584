@@ -1,0 +1,22 @@
+Log file created at: 2017/09/07 18:57:34
+Running on machine: DESKTOP-TJINT0L
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+W0907 18:57:34.496208  4088 helpers.cc:208] File already exists: lectures_batches\aaaaaa.batch
+W0907 18:57:34.724449  4088 helpers.cc:208] File already exists: lectures_batches\aaaaab.batch
+W0907 18:57:34.865561  4088 helpers.cc:208] File already exists: lectures_batches\aaaaac.batch
+W0907 18:57:34.986647  4088 helpers.cc:208] File already exists: lectures_batches\aaaaad.batch
+W0907 18:57:35.076712  4088 helpers.cc:208] File already exists: lectures_batches\aaaaae.batch
+W0907 18:57:35.252341  4088 helpers.cc:208] File already exists: lectures_batches\aaaaaf.batch
+W0907 18:57:35.583097  4088 helpers.cc:208] File already exists: lectures_batches\aaaaag.batch
+W0907 18:57:35.733127  4088 helpers.cc:208] File already exists: lectures_batches\aaaaah.batch
+W0907 18:57:35.858223  4088 helpers.cc:208] File already exists: lectures_batches\aaaaai.batch
+W0907 18:57:36.170449  4088 helpers.cc:208] File already exists: lectures_batches\aaaaaj.batch
+W0907 18:57:36.708848  4088 helpers.cc:208] File already exists: lectures_batches\aaaaak.batch
+W0907 18:57:37.266265  4088 helpers.cc:208] File already exists: lectures_batches\aaaaal.batch
+W0907 18:57:38.123929  4088 helpers.cc:208] File already exists: lectures_batches\aaaaam.batch
+W0907 18:57:38.792625  4088 helpers.cc:208] File already exists: lectures_batches\aaaaan.batch
+W0907 18:57:39.633718  4088 helpers.cc:208] File already exists: lectures_batches\aaaaao.batch
+W0907 18:57:40.277163  4088 helpers.cc:208] File already exists: lectures_batches\aaaaap.batch
+W0907 18:57:40.422252  4088 helpers.cc:208] File already exists: lectures_batches\aaaaaq.batch
+W0907 18:57:40.509318  4088 helpers.cc:208] File already exists: lectures_batches\aaaaar.batch
+W0907 18:58:46.124372  4088 check_messages.h:833] Inconsistent fields size in ThetaMatrix: 1728 vs 0 vs 1728 vs 0;
